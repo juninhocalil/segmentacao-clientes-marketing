@@ -138,7 +138,7 @@ Transformação do projeto em pipeline modular
 ----------
 # Autor
 
-João Pedro Borba Calil
+### João Pedro Borba Calil
 Estudante de Ciência de Dados / Machine Learning
 Interessado em análise de dados aplicada a negócios, tecnologia e estratégia.
 
